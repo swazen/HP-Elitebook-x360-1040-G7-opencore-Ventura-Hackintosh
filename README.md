@@ -75,7 +75,7 @@ Be patient, be zen and enjoy !
 
 ## How to make your HP x360 1040 G7 Hachintosh
 
-1. download my ZIP archive content EFI/OC for HP EliteBook x360 1040 G7 and extract where you want on your windows system (hack made under Windows 11 21H2)
+1. download my EFI.7z archive which contains EFI/OC folder for HP EliteBook x360 1040 G7 and extract where you want on your windows system (hack made under Windows 11 21H2)
 2. download Ventura raw image on [olarila.com](https://direct-link.net/462274/olarila-ventura-final-mf) and unzip
 3. download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for generate your personnal MacbookPro16.1 SMBIOS and unzip
 4. open GenSMBIOS.bat and choose option 1 for update the mac database, and 2 for select config.plist stocked in EFI/OC folder by dragndrop and finally option 3 for generate SMBIOS infos in the config.plist selected. Choose MacbookPro16.1 for generate yours serial, board serial, SmUUID and Apple ROM.
