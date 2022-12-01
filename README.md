@@ -1,0 +1,1 @@
+# HP-Elitebook-x360-1040-G7-opencore-Ventura
