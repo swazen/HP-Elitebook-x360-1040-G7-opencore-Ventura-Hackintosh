@@ -73,7 +73,7 @@ Be patient, be zen and enjoy !
 * XHCI-unsupported.kext
 
 
-## How to make your HP x360 1040 G7 Hachintosh
+## How to make your HP Elitebook x360 1040 G7 Hachintosh
 
 1. download my [EFI.7z](https://github.com/swazen/HP-Elitebook-x360-1040-G7-opencore-Ventura-Hackintosh/blob/main/EFI.7z) archive which contains EFI/OC folder for HP EliteBook x360 1040 G7 and extract where you want on your windows system (hack made under Windows 11 21H2)
 2. download Ventura raw image on [olarila.com](https://direct-link.net/462274/olarila-ventura-final-mf) and unzip
