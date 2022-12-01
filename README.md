@@ -30,6 +30,7 @@ Be patient, be zen and enjoy !
 * WIFI (need Heliport, view HowTo)
 * Bluetooth
 * Webcam
+* Sound
 * HDMI
 * Trackpad with gestures
 * Touchscreen
