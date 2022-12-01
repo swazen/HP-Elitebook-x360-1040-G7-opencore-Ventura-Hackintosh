@@ -1,6 +1,6 @@
 # HP Elitebook x360 1040 G7 Opencore Ventura Hackintosh
 
-Inspired by olarila method by [MaLd0n](https://www.olarila.com/topic/20908-easy-fast-and-perfect-vanilla-hackintosh-clover-and-opencore-windows-linux-or-macos/) + work of [kodowiec](https://github.com/kodowiec/HP-Elitebook-x360-1040-G6-Opencore) + french tutorial by [Mikaël GUILLERM](https://tinyurl.com/4buk3nrt).
+Inspired by olarila method by [MaLd0n](https://www.olarila.com/topic/20908-easy-fast-and-perfect-vanilla-hackintosh-clover-and-opencore-windows-linux-or-macos/) + work of [kodowiec](https://github.com/kodowiec/HP-Elitebook-x360-1040-G6-Opencore) + french tutorial by [Mikaël GUILLERM](https://www.tech2tech.fr/mon-dernier-hackintosh-sous-macos-monterey-et-opencore-build-2022-de-a-a-z-partie-1/).
 
 I share a complete EFI/OC ready to use, you just need to adapt SMBIOS values with GenSMBIOS, i 've delete my personnal data in config.plist. 
 Do not start macOS Ventura installer without moded your SMBIOS values in config.plist with GenSMBIOS otherwise it's an assured failure.
