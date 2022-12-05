@@ -10,7 +10,7 @@ Be patient, be zen and enjoy !
 ## Specs HP (all native)
 
 * Intel Core i5-10210U Comet Lake-U @1.6GHz
-* Intel UHD Graphics (9.5 gen - rev 5, [same HD635 architecture with base clock @300Mhz](https://www.techpowerup.com/gpu-specs/intel-comet-lake-gt2.g925)).
+* Intel UHD Graphics (9.5 gen - rev 5, [same HD630 architecture with base clock @300Mhz](https://www.techpowerup.com/gpu-specs/intel-comet-lake-gt2.g925)).
 * 16 GB DDR3
 * 512 Go SSD WDC SN520 NVMe 
 * Intel AX201 wifi6 /BT
