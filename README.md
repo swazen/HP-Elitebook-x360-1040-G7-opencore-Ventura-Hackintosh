@@ -27,11 +27,11 @@ Be patient, be zen and enjoy !
 
 ## What works
 
-* WIFI (need Heliport, view HowTo)
+* WIFI (view post install)
 * Bluetooth
 * Webcam
 * Sound
-* HDMI
+* HDMI (with usbc to hdmi)
 * Trackpad with gestures
 * Touchscreen
 * USB 3 & USB-C Ports (but not optimized)
