@@ -78,8 +78,8 @@ Be patient, be zen and enjoy !
 
 1. download my [EFI.7z](https://github.com/swazen/HP-Elitebook-x360-1040-G7-opencore-Ventura-Hackintosh/blob/main/EFI.7z) archive which contains EFI/OC folder for HP EliteBook x360 1040 G7 and extract where you want on your windows system (hack made under Windows 11 21H2)
 2. download Ventura raw image on [olarila.com](https://direct-link.net/462274/olarila-ventura-final-mf) and unzip
-3. download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for generate your personnal MacbookPro16.1 SMBIOS and unzip
-4. open GenSMBIOS.bat and choose option 1 for update the mac database, and 2 for select config.plist stocked in EFI/OC folder by dragndrop and finally option 3 for generate SMBIOS infos in the config.plist selected. Choose MacbookPro16.1 for generate yours serial, board serial, SmUUID and Apple ROM.
+3. download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for generate your personnal MacBookPro16,1 SMBIOS and unzip
+4. open GenSMBIOS.bat and choose option 1 for update the mac database, and 2 for select config.plist stocked in EFI/OC folder by dragndrop and finally option 3 for generate SMBIOS infos in the config.plist selected. Choose MacBookPro16,1 for generate yours serial, board serial, SmUUID and Apple ROM.
 5. download [balena etcher](https://www.balena.io/etcher/), install it and flash the raw image of ventura on USB stick or drive (min 16Go). Stay your USB drive connected.
 6. download [minitool partition wizard](https://www.minitool.fr/gestionnaire-partition/partition-wizard-accueil.html), install it and assign a letter to EFI partition of your USB drive for mount it.
 7. download [explorer++](https://explorerplusplus.com/download), run it with admin privileges, delete EFI folder on EFI partition and past your EFI folder (which contains BOOT and OC).
