@@ -89,4 +89,4 @@ Be patient, be zen and enjoy !
 ## Post install
 * patches are allready installed but you need put your EFI folder on your SSD for start your hackintosh without USB drive. Exist many macOS app for mount EFI like [ESP mounter pro](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip). Just mount both EFIs partitions, delete folder EFI on SSD, copy USB EFI folder and paste on SSD.
 * for wifi, download and install [Heliport](https://github.com/OpenIntelWireless/HeliPort) and switch off native wifi.
-* for a native scaled display (vectorial) you must download and install [one-key-hidpi](https://github.com/xzhih/one-key-hidpi).
+* for a native scaled display (vectorial) you must download and install [one-key-hidpi](https://github.com/yurhett/one-key-hidpi).
